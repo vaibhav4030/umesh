@@ -1,0 +1,16 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+.DS_Store
+
+/backend/cache/*
+
+# compiled output
+/tmp
+
+# dependencies
+/node_modules
+
+.DS_Store
+measure_zips.csv
+package-lock.json
+package-lock.json
